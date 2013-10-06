@@ -1,2 +1,6 @@
 #Data
 *.csv
+*.txt
+
+# Ipython "checkpoints"
+.ipynb_checkpoints/

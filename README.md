@@ -8,3 +8,6 @@ HW will be in the form of ipython notebooks.
 I guess I'll list links to the viewer for them here:
 
 HW2: http://nbviewer.ipython.org/urls/raw.github.com/chrpr/PDS13/master/harper.hw2.ipynb
+
+HW3: http://nbviewer.ipython.org/urls/raw.github.com/chrpr/PDS13/master/harper.hw3.ipynb
+

@@ -11,3 +11,5 @@ HW2: http://nbviewer.ipython.org/urls/raw.github.com/chrpr/PDS13/master/harper.h
 
 HW3: http://nbviewer.ipython.org/urls/raw.github.com/chrpr/PDS13/master/harper.hw3.ipynb
 
+Assess 1: http://nbviewer.ipython.org/urls/raw.github.com/chrpr/PDS13/master/harper.assess.1.ipynb
+

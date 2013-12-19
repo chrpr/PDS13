@@ -15,4 +15,5 @@ Assess 1: http://nbviewer.ipython.org/urls/raw.github.com/chrpr/PDS13/master/har
 
 HW4: http://nbviewer.ipython.org/urls/raw.github.com/chrpr/PDS13/master/harper.hw4.ipynb
 
+Assess 2: http://nbviewer.ipython.org/urls/raw.github.com/chrpr/PDS13/master/harper.assess2.ipynb
 
